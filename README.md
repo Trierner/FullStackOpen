@@ -1,2 +1,2 @@
 # FullStackOpen
-Bootcamp
+Full stack developer bootcamp
